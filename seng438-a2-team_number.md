@@ -28,10 +28,8 @@ The test objectives are to verify the functionality of various methods within th
 
 
 # Features to be Tested
-
-(https://github.com/seng438-winter-2024/seng438-a2-Sabayara82/assets/113862210/275fa64c-e4f2-4b7b-a1f7-d00bb99169ca)
-
-(https://github.com/seng438-winter-2024/seng438-a2-Sabayara82/assets/113862210/5442d46e-d272-4b71-a5a1-529d51366054)
+![Screenshot 2024-02-12 at 8 10 26 PM](https://github.com/seng438-winter-2024/seng438-a2-IshaHaider/assets/66149883/b19485de-b3bb-4758-88a8-a6560fdb6004)
+![Screenshot 2024-02-12 at 8 10 43 PM](https://github.com/seng438-winter-2024/seng438-a2-IshaHaider/assets/66149883/9320ccb5-a42e-4552-81da-854b51524003)
 
 
 # Testing Strategy and Test-case Design
