@@ -474,7 +474,7 @@ public class RangeTest {
 
 
  // ---------------- METHOD BEING TESTED: contains() ---------------- //   
-    ```java
+
     /**
      * Purpose: Checking if the contains() method correctly identifies a value inside the range
      * Type of tests involved: equivalence class testing
@@ -534,7 +534,7 @@ public class RangeTest {
         Range range = new Range(5.0, 10.0);
         assertFalse(range.contains(10.0001));
     }
-    ```
+
     
     
 
